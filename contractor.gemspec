@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
 
-  spec.add_dependency "dekoden", "~> 1.0.0"
+  spec.add_dependency "method_decorators", "~> 0.9.6"
 end
